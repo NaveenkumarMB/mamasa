@@ -159,6 +159,11 @@
   padding: 0;
 }
 
+.nofa-nav .navbar .navbar-brand .res{
+  width: 40%;
+  height: 100%;
+}
+
 .nofa-nav .navbar .navbar-brand {
   font-size: inherit;
   line-height: 1;
@@ -561,7 +566,7 @@
   .navbar-area.white-navbar .nofa-responsive-menu.mean-container .mean-nav {
     background-color: var(--blackColor);
   }
-  .navbar-area.white-navbar .nofa-responsive-menu.mean-container .mean-nav ul li a {
+  .navbar-area.white-navbar .nofa-responsive-menu ul li a {
     border-top-color: #3e3e3e;
     color: var(--whiteColor);
   }
